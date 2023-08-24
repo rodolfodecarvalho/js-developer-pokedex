@@ -12,6 +12,7 @@ body {
     height: 100vh;
     padding: 1rem;
     background-color: #fff;
+    cursor: pointer;
 }
 
 @media screen and (min-width: 992px) {
@@ -20,5 +21,6 @@ body {
         height: auto;
         margin: 1rem auto;
         border-radius: 1rem;
+        cursor: pointer;
     }
 }
